@@ -34,7 +34,7 @@ The architecture diagram illustrates the integration of AWS and GCP services to 
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-repo/QuickDataProcessor.git
+   git clone https://github.com/KavanBrahmbhatt0910/DataProcessingPipeline.git
    cd QuickDataProcessor
    ```
 2. Install dependencies:
@@ -75,4 +75,12 @@ npm test
 ## License
 
 This project is licensed under the MIT License.
+
+## Contact
+
+For any queries or support, feel free to reach out to:
+
+**Kavankumar Brahmbhatt**  
+[Email](mailto:kavanbrahmbhatt0910@gmail.com) | [GitHub](https://github.com/KavanBrahmbhatt0910)
+
 
